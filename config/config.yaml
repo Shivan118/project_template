@@ -1,0 +1,9 @@
+artifacts_config:
+  artifact_dir: artifacts
+
+data_ingestion_config:
+  dataset_download_url: https://github.com/Shivan118/Main-Branching/raw/main/books_data.zip
+  dataset_dir: dataset
+  ingested_dir: ingested_Data
+  raw_data_dir: raw_data
+
